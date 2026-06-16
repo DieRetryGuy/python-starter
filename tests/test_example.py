@@ -1,4 +1,4 @@
-from scripts import sum
+from app.example import sum
 
 
 class TestExample:
